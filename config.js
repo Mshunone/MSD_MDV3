@@ -3,13 +3,13 @@
 //RECODE BY MURSID
 
 //『 Utama 』 //
-global.owner = ['6288233832771']  // isi jika perlu
-global.mods = ['6288233832771']   // isi jika perlu
-global.prems = ['6288233832771']  // isi jika perlu
+global.owner = ['6288233832771']
+global.mods = ['6288233832771']
+global.prems = ['6288233832771']
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '𝙈𝙪𝙧𝙨𝙞𝙙 𝙎' // isi nama kalian bebas
-global.numberowner = '6288233832771' // isi nomor kalian dengan awalan seperti di contoh 
+global.nameowner = '𝙈𝙪𝙧𝙨𝙞𝙙 𝙎'
+global.numberowner = '6288233832771'
 
 //Name Bot & Grouplink//
 global.namebot = 'мυʀѕι∂ вσт-χмℓ'
