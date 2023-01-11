@@ -23,7 +23,7 @@ global.wm = 'мυʀѕι∂ вσт-χмℓ'
 global.watermark = wm
 global.wm2 = 'мυʀѕι∂ вσт-χмℓ'
 global.wm3 = 'мυʀѕι∂ вσт-χмℓ'
-global.wm4 = '2022'
+global.wm4 = '2023'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = 'ꜱᴇᴅᴀɴɢ ᴅɪᴘʀᴏꜱᴇꜱ...'
 global.eror = 'ꜱᴇʀᴠᴇʀ ᴇʀʀᴏʀ'
@@ -37,7 +37,7 @@ global.author = 'мυʀѕι∂ вσт-χмℓ'
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
+  bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
   hardianto: 'https://hardianto-chan.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -56,7 +56,7 @@ global.APIs = { // API Prefix
   pencarikode: 'https://pencarikode.xyz', 
   erdwepe: 'https://erdwpe-api.herokuapp.com',
   lolhuman: 'https://api.lolhuman.xyz',
-  tio: 'https://botcahx.ddns.net',
+  tio: 'http://api.tiodevhost.my.id',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   males: 'https://malesin.xyz'
